@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arthurnacious
 - 👀 I’m interested in web programming && design
 - 🌱 I’m currently learning nextJs
-- 💞️ I’m looking to collaborate on Larave projects
+- 💞️ I’m looking to collaborate on Laravel projects
 - 💞️ I’m looking to collaborate on Next/React projects
 
 <!---
